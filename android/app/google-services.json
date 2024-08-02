@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903406387148",
+    "project_id": "oxytech-302b1",
+    "storage_bucket": "oxytech-302b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903406387148:android:e4fc6ec43516a88c2be769",
+        "android_client_info": {
+          "package_name": "com.example.oxy_tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnGaJIUwp_UlfIr0uQPR4RZj5PvF6ef3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
